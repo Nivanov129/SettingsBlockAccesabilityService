@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:accessibilityEventTypes="typeAllMask"
+        android:packageNames="com.android.settings"
+        android:accessibilityFeedbackType="feedbackAllMask"
+        android:accessibilityFlags="flagDefault"
+        android:notificationTimeout="100"
+        android:description="@string/service_description"
+        android:canRetrieveWindowContent="true"
+        android:settingsActivity="dev.udev.settingsblockaccesabilityservice.MainActivity">
+</accessibility-service>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SettingsBlockAccesabilityService</string>
+    <string name="service_description">Place for description, but I don\'t create it</string>
+    <string name="is_blocked">Is blocked</string>
+</resources>
